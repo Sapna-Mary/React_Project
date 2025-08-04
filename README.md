@@ -1,1 +1,2 @@
 # React_Project
+# This is a simple Event Registration Form built using React.js. It allows users to enter their name, email, phone number, and age, and agree to the terms and conditions before submitting. The form includes basic input validation and displays the submitted data below. It also provides a reset button to clear the form. This project is ideal for beginners who want to learn about controlled components, form handling, and validation in React.
